@@ -1,5 +1,10 @@
 #server.port=9090
 #server.context-path=/helloboot
 server:
-  port: 9090
+  port: 8080
   context-path: /helloboot
+book:
+  author:
+    name: lixing
+    age: 27
+  name: spring boot
